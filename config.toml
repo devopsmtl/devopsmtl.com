@@ -1,4 +1,4 @@
-baseurl = "http://devopsmtl.com/"
+baseurl = "https://devopsmtl.github.io/devopsmtl.com/"
 title = "DevOps Montréal"
 theme = "ghostwriter"
 copyright = "Test"
