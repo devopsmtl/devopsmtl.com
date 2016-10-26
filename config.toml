@@ -32,7 +32,7 @@ name   = "Newsletter"
 weight = 30
 
 [[languages.en.menu.main]]
-url    = "https://www.eventbrite.ca/e/devopsmtl-december-2015-tickets-19828653035"
+url    = "https://devopsmtl.eventbrite.ca"
 name   = "Attend"
 weight = 40
 
@@ -75,7 +75,7 @@ name   = "Infolettre"
 weight = 30
 
 [[languages.fr.menu.main]]
-url    = "https://www.eventbrite.ca/e/devopsmtl-december-2015-tickets-19828653035"
+url    = "https://devopsmtl.eventbrite.ca"
 name   = "Participer"
 weight = 40
 
