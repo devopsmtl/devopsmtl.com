@@ -1,0 +1,101 @@
+baseurl = "http://devopsmtl.com/"
+title = "DevOps Montréal"
+theme = "ghostwriter"
+copyright = "Test"
+publishdir = "docs"
+
+[Author]
+name = "DevOpsMTL"
+
+[languages]
+[languages.en]
+languageCode = "en-ca"
+languageName = "English"
+title = "DevOps Montreal"
+weight = 0
+headline = "DevOps Montreal"
+description = "A community of DevOps enthusiasts in the Montreal area"
+
+[[languages.en.menu.main]]
+url    = "/"
+name   = "Home"
+weight = 10
+
+[[languages.en.menu.main]]
+url    = "/page/about/"
+name   = "About"
+weight = 20
+
+[[languages.en.menu.main]]
+url    = "http://newsletter.devopsmtl.com/"
+name   = "Newsletter"
+weight = 30
+
+[[languages.en.menu.main]]
+url    = "https://devopsmtl.eventbrite.ca"
+name   = "Attend"
+weight = 40
+
+[[languages.en.menu.main]]
+url    = "/page/present/"
+name   = "Present"
+weight = 50
+
+[[languages.en.menu.main]]
+url    = "/page/contact-us/"
+name   = "Contact Us"
+weight = 60
+
+[[languages.en.menu.main]]
+url    = "../fr"
+name   = "Français"
+weight = 100
+
+[languages.fr]
+languageCode = "fr-ca"
+languageName = "Français"
+title = "DevOps Montréal"
+weight = 10
+headline = "DevOps Montréal"
+description = "Communauté montréalaise autour du mouvement DevOps "
+
+[[languages.fr.menu.main]]
+url    = "/"
+name   = "Accueil"
+weight = 10
+
+[[languages.fr.menu.main]]
+url    = "/page/about/"
+name   = "À Propos"
+weight = 20
+
+[[languages.fr.menu.main]]
+url    = "http://newsletter.devopsmtl.com/"
+name   = "Infolettre"
+weight = 30
+
+[[languages.fr.menu.main]]
+url    = "https://devopsmtl.eventbrite.ca"
+name   = "Participer"
+weight = 40
+
+[[languages.fr.menu.main]]
+url    = "/page/present/"
+name   = "Présenter"
+weight = 50
+
+[[languages.fr.menu.main]]
+url    = "/page/contact-us/"
+name   = "Nous contacter"
+weight = 60
+
+[[languages.fr.menu.main]]
+url    = "../"
+name   = "English"
+weight = 100
+
+[Params]
+intro = true
+github = "https://github.com/devopsmtl"
+twitter = "https://twitter.com/devopsmontreal"
+opengraph = true

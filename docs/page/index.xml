@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page-rsses on DevOps Montreal</title>
+    <link>http://devopsmtl.com/page/index.xml</link>
+    <description>Recent content in Page-rsses on DevOps Montreal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <copyright>Test</copyright>
+    <lastBuildDate>Fri, 21 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://devopsmtl.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://devopsmtl.com/page/about/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://devopsmtl.com/page/about/</guid>
+      <description>&lt;p&gt;DevOps Montréal explores the intersection of software development and systems
+operations, in an era of agile development, cloud computing and automation. We hold
+monthly meetings since 2011 around the DevOps movement, more particularly on products,
+technologies and methodologies.&lt;/p&gt;
+
+&lt;p&gt;These meetings are generally composed of presentations, demos and discussions.
+We invite everyone interested in the subject to join us, whether you are a
+neophyte or an expert.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organizers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bencaron&#34;&gt;Benoit Caron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/pdion891&#34;&gt;Pierre-Luc Dion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/simonplourde&#34;&gt;Simon Plourde&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/purpleidea&#34;&gt;James&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A special thanks to former organizers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/webmat&#34;&gt;Mathieu Martin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;François Lapierre Messier&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://devopsmtl.com/page/contact-us/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://devopsmtl.com/page/contact-us/</guid>
+      <description>&lt;p&gt;You can reach the organizers by email at the address
+&lt;a href=&#34;mailto:devops-montreal-admin@googlegroups.com&#34;&gt;devops-montreal-admin@googlegroups.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://newsletter.devopsmtl.com/&#34;&gt;Subscribe to our monthly newsletter&lt;/a&gt; to be
+notified of upcoming events. We&amp;rsquo;ll never share your information, and you can
+unsubscribe with a single click at any time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://groups.google.com/group/devops-montreal&#34;&gt;Interact with the community in our mailing list&lt;/a&gt;
+to suggest ideas, participate in technical discussions and find or post a job.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/devopsmontreal&#34;&gt;Follow us on Twitter&lt;/a&gt; for meeting
+announcements and news about the community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Present</title>
+      <link>http://devopsmtl.com/page/present/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://devopsmtl.com/page/present/</guid>
+      <description>&lt;p&gt;We are always looking for people interested in presenting talks of 5, 15 or 30
+minutes at the upcoming events. Whether you are a developer, system
+administrator, architect, scrum master or other, we want to hear from you!&lt;/p&gt;
+
+&lt;p&gt;Share your knowledge, discoveries, stories of great success and worthy failures
+on topics around the DevOps universe. You can present in English or French and
+no need to be a world leader in the subject.&lt;/p&gt;
+
+&lt;p&gt;Submit your idea by
+&lt;a href=&#34;mailto:devops-montreal-admin@googlegroups.com&#34;&gt;writing to us&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
