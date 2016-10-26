@@ -5,8 +5,8 @@ date: "2016-10-21"
 
 DevOps Montréal explores the intersection of software development and systems
 operations, in an era of agile development, cloud computing and automation. We hold
-monthly meetings around the DevOps movement, more particularly on products,
-technologies and methodologies since 2011.
+monthly meetings since 2011 around the DevOps movement, more particularly on products,
+technologies and methodologies.
 
 These meetings are generally composed of presentations, demos and discussions.
 We invite everyone interested in the subject to join us, whether you are a
