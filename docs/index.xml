@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps Montreal</title>
+    <link>http://devopsmtl.com/index.xml</link>
+    <description>Recent content on DevOps Montreal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <copyright>Test</copyright>
+    <lastBuildDate>Wed, 26 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://devopsmtl.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>November 7, 2016 Meetup</title>
+      <link>http://devopsmtl.com/post/november-2016/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://devopsmtl.com/post/november-2016/</guid>
+      <description>
+
+&lt;p&gt;Join us for the November meeting of DevOps Montreal. This month, our friends
+from &lt;a href=&#34;https://cloud.ca/&#34;&gt;Cloud.ca&lt;/a&gt; are welcoming us into their offices.&lt;/p&gt;
+
+&lt;p&gt;Make sure to &lt;a href=&#34;https://devopsmtl.eventbrite.ca&#34;&gt;RSVP&lt;/a&gt; to help us plan for food
+and drinks.&lt;/p&gt;
+
+&lt;p&gt;We are also looking for speakers for the current and future events. Please
+&lt;a href=&#34;mailto:devops-montreal-admin@googlegroups.com&#34;&gt;write to us&lt;/a&gt; with your ideas.&lt;/p&gt;
+
+&lt;h2 id=&#34;where&#34;&gt;Where&lt;/h2&gt;
+
+&lt;p&gt;Centre Cloud.ca&lt;br /&gt;
+420 rue Guy&lt;br /&gt;
+Montreal, Quebec H3J 1S6&lt;br /&gt;
+&lt;a href=&#34;https://www.google.ca/maps/dir/&#39;&#39;/centre+cloud.ca/@45.4897593,-73.5713236,15.87z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4cc91a638a6b442b:0xe315ad11de05f102!2m2!1d-73.5665928!2d45.4896113&#34;&gt;Map&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;when&#34;&gt;When&lt;/h2&gt;
+
+&lt;p&gt;Monday, November 7, 2016.&lt;br /&gt;
+Doors open at 18:00, presentations start at 19:00.&lt;/p&gt;
+
+&lt;h2 id=&#34;how&#34;&gt;How&lt;/h2&gt;
+
+&lt;p&gt;Register for free on &lt;a href=&#34;https://devopsmtl.eventbrite.ca&#34;&gt;EventBrite&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentations&#34;&gt;Presentations&lt;/h2&gt;
+
+&lt;h3 id=&#34;james-next-generation-config-mgmt-part-two&#34;&gt;James: Next Generation Config Mgmt: Part two&lt;/h3&gt;
+
+&lt;p&gt;A presentation about a next gen config management tool, and the
+specific problems this project solves.&lt;/p&gt;
+
+&lt;p&gt;Three of the main design features of the tool include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Parallel execution&lt;/li&gt;
+&lt;li&gt;Event driven mechanism&lt;/li&gt;
+&lt;li&gt;Distributed architecture&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This talk will demo a prototype I&amp;rsquo;ve built that implement these ideas
+and which is written in golang.
+I will start by presenting an introduction to the tool.
+I will then demo the new features that were added since the project
+was introduced. This will include the automatic grouping, automatic
+elastic etcd clustering and remote execution features.
+I will finally share some of the future planned designs for the tool.&lt;/p&gt;
+
+&lt;p&gt;An introductory blog post on the subject is available:
+&lt;a href=&#34;https://ttboj.wordpress.com/2016/01/18/next-generation-configuration-mgmt/&#34;&gt;https://ttboj.wordpress.com/2016/01/18/next-generation-configuration-mgmt/&lt;/a&gt;.&lt;br /&gt;
+Attendees are encouraged to read it before the talk if they are
+interested!&lt;/p&gt;
+
+&lt;h2 id=&#34;sponsors&#34;&gt;Sponsors&lt;/h2&gt;
+
+&lt;p&gt;We&amp;rsquo;d like to thank &lt;a href=&#34;https://cloud.ca/&#34;&gt;Cloud.ca&lt;/a&gt; for making this meeting possible.&lt;/p&gt;
+
+&lt;h2 id=&#34;questions&#34;&gt;Questions?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://groups.google.com/forum/#!forum/devops-montreal&#34;&gt;Ask the whole gang&lt;/a&gt; or
+&lt;a href=&#34;mailto:devops-montreal-admin@googlegroups.com&#34;&gt;ask the organizers&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://devopsmtl.com/page/about/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://devopsmtl.com/page/about/</guid>
+      <description>&lt;p&gt;DevOps Montréal explores the intersection of software development and systems
+operations, in an era of agile development, cloud computing and automation. We hold
+monthly meetings since 2011 around the DevOps movement, more particularly on products,
+technologies and methodologies.&lt;/p&gt;
+
+&lt;p&gt;These meetings are generally composed of presentations, demos and discussions.
+We invite everyone interested in the subject to join us, whether you are a
+neophyte or an expert.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organizers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bencaron&#34;&gt;Benoit Caron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/pdion891&#34;&gt;Pierre-Luc Dion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/simonplourde&#34;&gt;Simon Plourde&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/purpleidea&#34;&gt;James&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A special thanks to former organizers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/webmat&#34;&gt;Mathieu Martin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;François Lapierre Messier&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://devopsmtl.com/page/contact-us/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://devopsmtl.com/page/contact-us/</guid>
+      <description>&lt;p&gt;You can reach the organizers by email at the address
+&lt;a href=&#34;mailto:devops-montreal-admin@googlegroups.com&#34;&gt;devops-montreal-admin@googlegroups.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://newsletter.devopsmtl.com/&#34;&gt;Subscribe to our monthly newsletter&lt;/a&gt; to be
+notified of upcoming events. We&amp;rsquo;ll never share your information, and you can
+unsubscribe with a single click at any time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://groups.google.com/group/devops-montreal&#34;&gt;Interact with the community in our mailing list&lt;/a&gt;
+to suggest ideas, participate in technical discussions and find or post a job.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/devopsmontreal&#34;&gt;Follow us on Twitter&lt;/a&gt; for meeting
+announcements and news about the community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Present</title>
+      <link>http://devopsmtl.com/page/present/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://devopsmtl.com/page/present/</guid>
+      <description>&lt;p&gt;We are always looking for people interested in presenting talks of 5, 15 or 30
+minutes at the upcoming events. Whether you are a developer, system
+administrator, architect, scrum master or other, we want to hear from you!&lt;/p&gt;
+
+&lt;p&gt;Share your knowledge, discoveries, stories of great success and worthy failures
+on topics around the DevOps universe. You can present in English or French and
+no need to be a world leader in the subject.&lt;/p&gt;
+
+&lt;p&gt;Submit your idea by
+&lt;a href=&#34;mailto:devops-montreal-admin@googlegroups.com&#34;&gt;writing to us&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

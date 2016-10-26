@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page-rsses on DevOps Montréal</title>
+    <link>http://devopsmtl.com/fr/page/index.xml</link>
+    <description>Recent content in Page-rsses on DevOps Montréal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <copyright>Test</copyright>
+    <lastBuildDate>Fri, 21 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://devopsmtl.com/fr/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nous Contacter</title>
+      <link>http://devopsmtl.com/fr/page/contact-us/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://devopsmtl.com/fr/page/contact-us/</guid>
+      <description>&lt;p&gt;Vous pouvez rejoindre les organisateurs par courriel à l&amp;rsquo;adresse
+&lt;a href=&#34;mailto:devops-montreal-admin@googlegroups.com&#34;&gt;devops-montreal-admin@googlegroups.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://newsletter.devopsmtl.com/&#34;&gt;Inscrivez-vous à notre infolettre mensuelle&lt;/a&gt;
+afin d&amp;rsquo;être notifié des prochains événements.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://groups.google.com/group/devops-montreal&#34;&gt;Interagissez avec la communauté sur notre liste de diffusion&lt;/a&gt;
+en proposant vos idées, en participant à des discussions techniques et proposez
+ou recherchez des offres d&amp;rsquo;emplois.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/devopsmontreal&#34;&gt;Suivez-nous sur Twitter&lt;/a&gt; pour les annonces
+des prochains événements et des nouvelles à propos de la communauté.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Présenter</title>
+      <link>http://devopsmtl.com/fr/page/present/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://devopsmtl.com/fr/page/present/</guid>
+      <description>&lt;p&gt;Nous sommes toujours à la recherche de personnes intéressées à présenter leurs
+idées durant 5, 15 ou 30 minutes lors des prochaines rencontres. Que vous soyez
+développeur, administrateur système, architecte, scrum master ou autre, nous
+voulons vous entendre!&lt;/p&gt;
+
+&lt;p&gt;Venez partager vos connaissances, découvertes, succès et échecs sur des sujets
+variés touchant de près ou de loin l&amp;rsquo;univers DevOps. Votre présentation peut
+être en français ou en anglais et nul besoin d&amp;rsquo;être une sommité mondiale sur le
+sujet.&lt;/p&gt;
+
+&lt;p&gt;Pour soumettre votre idée,
+&lt;a href=&#34;mailto:devops-montreal-admin@googlegroups.com&#34;&gt;écrivez-nous&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>À Propos</title>
+      <link>http://devopsmtl.com/fr/page/about/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://devopsmtl.com/fr/page/about/</guid>
+      <description>&lt;p&gt;DevOps Montréal se veut un lieu d&amp;rsquo;échange sur l&amp;rsquo;intersection du développement
+logiciel et de l&amp;rsquo;exploitation de système, dans une ère de méthodes agile,
+de cloud computing et d&amp;rsquo;automatisation. Nous tenons des rencontres mensuelles
+axées sur le mouvement DevOps, mais plus concrètement sur les produits,
+technologies et méthodologies associées, et ce, depuis 2011.&lt;/p&gt;
+
+&lt;p&gt;Ces rencontres sont généralement composées de présentations, démonstrations et
+discussions. Nous invitons tous ceux et celles intéressés par ce sujet à participer,
+que vous soyez un néophyte ou une sommité mondiale.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organisateurs&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/bencaron&#34;&gt;Benoit Caron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/pdion891&#34;&gt;Pierre-Luc Dion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/simonplourde&#34;&gt;Simon Plourde&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/purpleidea&#34;&gt;James&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Et un merci tout particulier aux anciens organisateurs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/webmat&#34;&gt;Mathieu Martin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;François Lapierre Messier&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
