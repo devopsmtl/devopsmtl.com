@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on DevOps Montréal</title>
-    <link>http://devopsmtl.com/fr/post/index.xml</link>
+    <link>https://devopsmtl.github.io/devopsmtl.com/fr/post/index.xml</link>
     <description>Recent content in Post-rsses on DevOps Montréal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
     <copyright>Test</copyright>
     <lastBuildDate>Wed, 26 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://devopsmtl.com/fr/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://devopsmtl.github.io/devopsmtl.com/fr/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Rencontre du 7 Novembre 2016</title>
-      <link>http://devopsmtl.com/fr/post/november-2016/</link>
+      <link>https://devopsmtl.github.io/devopsmtl.com/fr/post/november-2016/</link>
       <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://devopsmtl.com/fr/post/november-2016/</guid>
+      <guid>https://devopsmtl.github.io/devopsmtl.com/fr/post/november-2016/</guid>
       <description>
 
 &lt;p&gt;Joignez-vous à nous pour la prochaine rencontre de DevOps Montréal en novembre.

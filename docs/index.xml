@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevOps Montreal</title>
-    <link>http://devopsmtl.com/index.xml</link>
+    <link>https://devopsmtl.github.io/devopsmtl.com/index.xml</link>
     <description>Recent content on DevOps Montreal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <copyright>Test</copyright>
     <lastBuildDate>Wed, 26 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://devopsmtl.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://devopsmtl.github.io/devopsmtl.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>November 7, 2016 Meetup</title>
-      <link>http://devopsmtl.com/post/november-2016/</link>
+      <link>https://devopsmtl.github.io/devopsmtl.com/post/november-2016/</link>
       <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://devopsmtl.com/post/november-2016/</guid>
+      <guid>https://devopsmtl.github.io/devopsmtl.com/post/november-2016/</guid>
       <description>
 
 &lt;p&gt;Join us for the November meeting of DevOps Montreal. This month, our friends
@@ -84,10 +84,10 @@ interested!&lt;/p&gt;
     
     <item>
       <title>About</title>
-      <link>http://devopsmtl.com/page/about/</link>
+      <link>https://devopsmtl.github.io/devopsmtl.com/page/about/</link>
       <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://devopsmtl.com/page/about/</guid>
+      <guid>https://devopsmtl.github.io/devopsmtl.com/page/about/</guid>
       <description>&lt;p&gt;DevOps Montréal explores the intersection of software development and systems
 operations, in an era of agile development, cloud computing and automation. We hold
 monthly meetings since 2011 around the DevOps movement, more particularly on products,
@@ -117,10 +117,10 @@ neophyte or an expert.&lt;/p&gt;
     
     <item>
       <title>Contact Us</title>
-      <link>http://devopsmtl.com/page/contact-us/</link>
+      <link>https://devopsmtl.github.io/devopsmtl.com/page/contact-us/</link>
       <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://devopsmtl.com/page/contact-us/</guid>
+      <guid>https://devopsmtl.github.io/devopsmtl.com/page/contact-us/</guid>
       <description>&lt;p&gt;You can reach the organizers by email at the address
 &lt;a href=&#34;mailto:devops-montreal-admin@googlegroups.com&#34;&gt;devops-montreal-admin@googlegroups.com&lt;/a&gt;.&lt;/p&gt;
 
@@ -138,10 +138,10 @@ announcements and news about the community.&lt;/p&gt;
     
     <item>
       <title>Present</title>
-      <link>http://devopsmtl.com/page/present/</link>
+      <link>https://devopsmtl.github.io/devopsmtl.com/page/present/</link>
       <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://devopsmtl.com/page/present/</guid>
+      <guid>https://devopsmtl.github.io/devopsmtl.com/page/present/</guid>
       <description>&lt;p&gt;We are always looking for people interested in presenting talks of 5, 15 or 30
 minutes at the upcoming events. Whether you are a developer, system
 administrator, architect, scrum master or other, we want to hear from you!&lt;/p&gt;
