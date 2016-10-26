@@ -2,6 +2,10 @@ baseurl = "http://devopsmtl.com/"
 title = "DevOps Montréal"
 theme = "ghostwriter"
 copyright = "Test"
+publishdir = "docs"
+
+[Author]
+name = "DevOpsMTL"
 
 [languages]
 [languages.en]
@@ -13,29 +17,34 @@ headline = "DevOps Montreal"
 description = "A community of DevOps enthusiasts in the Montreal area"
 
 [[languages.en.menu.main]]
-url    = "/pages/about/"
+url    = "/"
+name   = "Home"
+weight = 10
+
+[[languages.en.menu.main]]
+url    = "/page/about/"
 name   = "About"
-weight = 0
+weight = 20
 
 [[languages.en.menu.main]]
 url    = "http://newsletter.devopsmtl.com/"
 name   = "Newsletter"
-weight = 10
+weight = 30
 
 [[languages.en.menu.main]]
 url    = "https://www.eventbrite.ca/e/devopsmtl-december-2015-tickets-19828653035"
 name   = "Attend"
-weight = 20
-
-[[languages.en.menu.main]]
-url    = "/pages/present/"
-name   = "Present"
-weight = 30
-
-[[languages.en.menu.main]]
-url    = "/pages/contact-us/"
-name   = "Contact Us"
 weight = 40
+
+[[languages.en.menu.main]]
+url    = "/page/present/"
+name   = "Present"
+weight = 50
+
+[[languages.en.menu.main]]
+url    = "/page/contact-us/"
+name   = "Contact Us"
+weight = 60
 
 [[languages.en.menu.main]]
 url    = "../fr"
@@ -51,29 +60,34 @@ headline = "DevOps Montréal"
 description = "Communauté montréalaise autour du mouvement DevOps "
 
 [[languages.fr.menu.main]]
-url    = "/pages/about/"
+url    = "/"
+name   = "Accueil"
+weight = 10
+
+[[languages.fr.menu.main]]
+url    = "/page/about/"
 name   = "À Propos"
-weight = 0
+weight = 20
 
 [[languages.fr.menu.main]]
 url    = "http://newsletter.devopsmtl.com/"
 name   = "Infolettre"
-weight = 10
+weight = 30
 
 [[languages.fr.menu.main]]
 url    = "https://www.eventbrite.ca/e/devopsmtl-december-2015-tickets-19828653035"
 name   = "Participer"
-weight = 20
-
-[[languages.fr.menu.main]]
-url    = "/pages/present/"
-name   = "Présenter"
-weight = 30
-
-[[languages.fr.menu.main]]
-url    = "/pages/contact-us/"
-name   = "Nous contacter"
 weight = 40
+
+[[languages.fr.menu.main]]
+url    = "/page/present/"
+name   = "Présenter"
+weight = 50
+
+[[languages.fr.menu.main]]
+url    = "/page/contact-us/"
+name   = "Nous contacter"
+weight = 60
 
 [[languages.fr.menu.main]]
 url    = "../"
