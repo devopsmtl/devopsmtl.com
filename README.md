@@ -23,7 +23,7 @@ in order to support both English and French languages side-by-side.
 In the top directory of this repository, start the Hugo webserver:
 
 ```
-hugo server # Serves at http://localhost:1313/
+hugo server
 ```
 
 Add the menu entry for both languages on the _config.toml_ configuration file. The
@@ -44,7 +44,7 @@ weight = 0
 ```
 
 Create the page for each language in the proper subdirectory, here
-`page/foo.en.md` and `page/foo.fr.md`:
+`content/page/foo.en.md` and `content/page/foo.fr.md`:
 
 ```
 ---
@@ -59,11 +59,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 In the top directory of this repository, start the Hugo webserver:
 
 ```
-hugo server # Serves at http://localhost:1313/
+hugo server
 ```
 
 Create the page for each language in the proper subdirectory, here
-`post/january-1970.en.md` and `page/january-1970.fr.md`:
+`content/post/january-1970.en.md` and `content/page/january-1970.fr.md`:
 
 ```
 ---
