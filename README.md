@@ -56,6 +56,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ```
 
 ### Adding an event
+
+Fork or clone the project
+
+```
+git clone --recursive https://github.com/devopsmtl/devopsmtl.com.git
+```
+Use `--recursive` to also clone hugo theme.
+
+
 In the top directory of this repository, start the Hugo webserver:
 
 ```
@@ -74,3 +83,5 @@ date: "2016-10-26"
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ```
+
+Local test url should look like `http://localhost:1313/devopsmtl.com/` 
